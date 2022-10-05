@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "IxVfpH4Ygr4mBM/LYj7JNg+YaB5y18FKFfosEz+7WS/k2WUmuXVQ54CProRLRMHjAokMCDS/KtlcHrskrDuSRA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jzuniga\\source\\repos\\chess\\chess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jzuniga\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512",
+    "C:\\Users\\jzuniga\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

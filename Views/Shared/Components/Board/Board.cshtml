@@ -1,0 +1,14 @@
+﻿<div class="grid-container" id="grid">
+    @{
+        var generalCounter = 0;
+        for (var rowsIndex = 0; rowsIndex < 8; rowsIndex++)
+        {
+            for (var columnsIndex = 0; columnsIndex < 8; columnsIndex ++)
+            {
+                <div draggable="true" class="grid-item" id="@($"box{generalCounter + 1}")">@generalCounter</div>
+                
+                generalCounter++;
+            }
+        }
+    }
+</div>
